@@ -14,7 +14,7 @@ Take a look at my latest work, including:
 </p>
 <ul>
 <a target="_blank" href="https://github.com/CyberSecSleuth/theaterTicketBooking">👉🏻 Theater Ticket Booking System</a> 🎭 - A feature-packed application with a theater-themed menu and efficient database integration.<br>
-<a target="_blank" href="https://github.com/CyberSecSleuth/NGL-SPY">👉🏻 NGL-SPY</a> 😈 - An NGL clone website capturing user entries revealing username to the host.
+<!-- <a target="_blank" href="https://github.com/CyberSecSleuth/NGL-SPY">👉🏻 NGL-SPY</a> 😈 - An NGL clone website capturing user entries revealing username to the host. -->
 </ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
