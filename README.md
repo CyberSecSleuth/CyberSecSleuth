@@ -17,15 +17,13 @@ Take a look at my latest work, including:
 <a target="_blank" href="https://github.com/CyberSecSleuth/NGL-SPY">👉🏻 NGL-SPY</a> 😈 - An NGL clone website capturing user entries revealing username to the host.<br>
 <a target="_blank" href="https://github.com/CyberSecSleuth/SEB-UNLOCKED">👉🏻 SEB-UNLOCKED</a> 🎮 - A game repack providing website with modern UI/UX elements included focusing user satisfaction<br>
 </ul>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberSecSleuth&show_icons=true&locale=en&layout=compact" alt="CyberSecSleuth" /></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberSecSleuth /CyberSecSleuth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberSecSleuth/CyberSecSleuth/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CyberSecSleuth/CyberSecSleuth/output/github-snake-dark.svg" />
 </picture>
+</ul>
+<h2>🚀 Languages and Tools I Use</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberSecSleuth&show_icons=true&locale=en&layout=compact" alt="CyberSecSleuth" /><br><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="100"><img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="100"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-relational-sql-coding-lang-pack-logos-icons-7578013.png?f=webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
