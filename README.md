@@ -14,6 +14,7 @@ Take a look at my latest work, including:
 </p>
 <ul>
 <a target="_blank" href="https://github.com/CyberSecSleuth/theaterTicketBooking">👉🏻 Theater Ticket Booking System</a> 🎭 - A feature-packed application with a theater-themed menu and efficient database integration.<br>
+<a target="_blank" href="https://github.com/CyberSecSleuth/VENOMSHADE-DISCORD-BOT">👉🏻 Venomshade Discord Bot</a> 🤖 - Discord bot for community management with welcome systems, word games, confessions, and auto-reactions. Built with Python.<br>
 <a target="_blank" href="https://github.com/CyberSecSleuth/NGL-SPY">👉🏻 NGL-SPY</a> 😈 - An NGL clone website capturing user entries revealing username to the host.<br>
 <a target="_blank" href="https://github.com/CyberSecSleuth/SEB-UNLOCKED">👉🏻 SEB-UNLOCKED</a> 🎮 - A game repack providing website with modern UI/UX elements included focusing user satisfaction<br>
 </ul>
