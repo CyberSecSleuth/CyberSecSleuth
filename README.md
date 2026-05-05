@@ -10,6 +10,9 @@ A knack for creating user-friendly interfaces with a focus on usability.
 Collaborative spirit, welcoming contributions and new ideas!
 
 <b>📂 Explore My Projects:</b>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-github-readme-stats.svg)
 Take a look at my latest work, including:
 </p>
 <ul>
